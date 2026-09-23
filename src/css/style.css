@@ -1,0 +1,22 @@
+p mark {
+    color:red;
+}
+
+.first {
+    color: blue;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+#second {
+    color:pink;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.marker {
+    color: green;
+}

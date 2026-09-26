@@ -20,3 +20,9 @@ h1, h2, h3 {
 .marker {
     color: green;
 }
+
+.cover {
+    display: block;
+    margin: 50px auto 0 auto ;
+    width: 400px;
+}
